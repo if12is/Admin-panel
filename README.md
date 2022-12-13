@@ -1,4 +1,5 @@
-```composer install  {composer update --ignore-platform-reqs }
+```
+composer install  {composer update --ignore-platform-reqs }
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
